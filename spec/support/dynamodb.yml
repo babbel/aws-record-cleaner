@@ -1,0 +1,4 @@
+endpoint: "http://localhost:8002/"
+region: "local"
+table_name_test1: "test-table-1"
+table_name_test2: "test-table-2"
